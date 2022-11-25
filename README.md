@@ -1,6 +1,2 @@
 # testRepo
-
-test
-tetest
-ttt
-가자!!!!!
+제발 살려주세요
